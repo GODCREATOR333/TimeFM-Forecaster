@@ -1,3 +1,3 @@
 # TimeFM-Forecaster
 
-This Project is sitll in development
+This Project is still in development
